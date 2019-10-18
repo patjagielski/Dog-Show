@@ -31,4 +31,4 @@
     </ul>
   </li>
   <H3> Entity Diagram for for the following database</H3>
-  ![Dog Show] (C:\Users\jagie\Downloads\DogShow.jpg "Dog Show")
+  ![Dog Show] (Downloads\DogShow.jpg)
