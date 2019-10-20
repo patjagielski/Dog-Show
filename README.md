@@ -32,4 +32,4 @@
   </li>
   <H3> Entity Diagram for for the following database</H3>
   
-  ![Dog Show](https://gist.github.com/patjagielski/43ca8516f57210cfd1be04b890fca6f8#file-dogshow-png)
+  ![Dog Show](https://gist.githubusercontent.com/patjagielski/43ca8516f57210cfd1be04b890fca6f8/raw/e02af4d31de991a60b7f5fbfb7b7d7e80c1a6ac6/DogShow.png)
